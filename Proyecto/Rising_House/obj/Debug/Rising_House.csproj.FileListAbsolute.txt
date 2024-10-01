@@ -1,0 +1,33 @@
+C:\Users\owen\Desktop\colegio_universidad\trabajos owen\universidad\Semestre 5\POO\Proyecto_Owen_Holguin\Proyecto\Rising_House\bin\Debug\Rising_House.exe.config
+C:\Users\owen\Desktop\colegio_universidad\trabajos owen\universidad\Semestre 5\POO\Proyecto_Owen_Holguin\Proyecto\Rising_House\bin\Debug\Rising_House.exe
+C:\Users\owen\Desktop\colegio_universidad\trabajos owen\universidad\Semestre 5\POO\Proyecto_Owen_Holguin\Proyecto\Rising_House\bin\Debug\Rising_House.pdb
+C:\Users\owen\Desktop\colegio_universidad\trabajos owen\universidad\Semestre 5\POO\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.csproj.AssemblyReference.cache
+C:\Users\owen\Desktop\colegio_universidad\trabajos owen\universidad\Semestre 5\POO\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.csproj.SuggestedBindingRedirects.cache
+C:\Users\owen\Desktop\colegio_universidad\trabajos owen\universidad\Semestre 5\POO\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.Formulario.frmIngreso.resources
+C:\Users\owen\Desktop\colegio_universidad\trabajos owen\universidad\Semestre 5\POO\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.Properties.Resources.resources
+C:\Users\owen\Desktop\colegio_universidad\trabajos owen\universidad\Semestre 5\POO\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.csproj.GenerateResource.cache
+C:\Users\owen\Desktop\colegio_universidad\trabajos owen\universidad\Semestre 5\POO\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.csproj.CoreCompileInputs.cache
+C:\Users\owen\Desktop\colegio_universidad\trabajos owen\universidad\Semestre 5\POO\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.exe
+C:\Users\owen\Desktop\colegio_universidad\trabajos owen\universidad\Semestre 5\POO\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.pdb
+C:\Users\owen\Desktop\colegio_universidad\trabajos owen\universidad\Semestre 5\POO\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.Formulario.frmRegistroUsuario.resources
+D:\Proyecto_Owen_Holguin\Proyecto\Rising_House\bin\Debug\Rising_House.exe.config
+D:\Proyecto_Owen_Holguin\Proyecto\Rising_House\bin\Debug\Rising_House.exe
+D:\Proyecto_Owen_Holguin\Proyecto\Rising_House\bin\Debug\Rising_House.pdb
+D:\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.csproj.AssemblyReference.cache
+D:\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.csproj.SuggestedBindingRedirects.cache
+D:\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.Formulario.frmCita.resources
+D:\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.Formulario.frmIngreso.resources
+D:\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.Formulario.frmRegistroUsuario.resources
+D:\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.Properties.Resources.resources
+D:\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.csproj.GenerateResource.cache
+D:\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.csproj.CoreCompileInputs.cache
+D:\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.exe
+D:\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.pdb
+C:\Users\owen\Desktop\colegio_universidad\trabajos owen\universidad\Semestre 5\POO\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.Formulario.frmCita.resources
+C:\Users\owen\Desktop\colegio_universidad\trabajos owen\universidad\Semestre 5\POO\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.Formulario.frmActualizarPropiedad.resources
+C:\Users\owen\Desktop\colegio_universidad\trabajos owen\universidad\Semestre 5\POO\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.Formulario.frmMenuPrincipal.resources
+C:\Users\owen\Desktop\colegio_universidad\trabajos owen\universidad\Semestre 5\POO\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.Formulario.frmRegistrarPropiedad.resources
+C:\Users\owen\Desktop\colegio_universidad\trabajos owen\universidad\Semestre 5\POO\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.Formulario.frmPropiedad.resources
+C:\Users\owen\Desktop\colegio_universidad\trabajos owen\universidad\Semestre 5\POO\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.Formulario.frmVerCitas.resources
+C:\Users\owen\Desktop\colegio_universidad\trabajos owen\universidad\Semestre 5\POO\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.csproj.ResolveComReference.cache
+C:\Users\owen\Desktop\colegio_universidad\trabajos owen\universidad\Semestre 5\POO\Proyecto_Owen_Holguin\Proyecto\Rising_House\obj\Debug\Rising_House.Formulario.frmRecibo.resources
