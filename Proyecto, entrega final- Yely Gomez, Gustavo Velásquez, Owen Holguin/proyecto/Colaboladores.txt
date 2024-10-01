@@ -1,0 +1,10 @@
+1000	Claudia	Administrativo
+900	Samantha	Estudiante
+800	Monica	Docente Catedra
+700	Mateo	Docente Ocasional
+600	Alex	Docente Carrera
+500	Jaime	Estudiante
+400	Beatriz	Administrativo
+300	Polo	Docente Catedra
+200	Marco	Docente Ocasional
+100	Paula	Docente Carrera

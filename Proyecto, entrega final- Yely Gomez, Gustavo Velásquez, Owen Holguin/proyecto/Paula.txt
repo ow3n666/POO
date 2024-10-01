@@ -1,0 +1,7 @@
+Señor:Paula
+ La Dirección de Investigación de la Institución Universitaria de Envigado le agradece su participación en la convocatoria para el reconocimiento de los productos académicos.
+ En esta ocasión, la Dirección de Investigación le reconocerá los siguientes productos:
+No 	Codigo 	Nombre 	Puntos 	Valor
+1	1	1	Articulo	120	1800000.0
+2	2	2	Patente	200	3000000.0
+En la proxima quincena se le reconocera: 4800000.0
